@@ -8,10 +8,8 @@ O notebook realiza uma análise exploratória em um conjunto de dados de uma emp
 
 - Identificação e tratamento de dados faltantes
 - Padronização de colunas
-- Análise estatística descritiva
 - Visualização de dados
 - Verificação de possíveis outliers
-- Discussão sobre variáveis relevantes para o modelo de **Churn**
 
 ## 🛠️ Ferramentas Utilizadas
 
