@@ -1,1 +1,24 @@
-# Projeto-Pr-Processamento-dos-Dados---A-Primeira-Etapa-Pr-Modelagem
+# Projeto: Análise de Dados de Clientes de Telecom
+
+Este projeto faz parte do módulo 14 da formação em Ciência de Dados e tem como objetivo aplicar técnicas de tratamento de dados faltantes, análise exploratória e visualização, utilizando a linguagem Python em um ambiente Jupyter Notebook.
+
+## 📊 Descrição do Projeto
+
+O notebook realiza uma análise exploratória em um conjunto de dados de uma empresa de telecomunicações, abordando os seguintes pontos:
+
+- Identificação e tratamento de dados faltantes
+- Padronização de colunas
+- Análise estatística descritiva
+- Visualização de dados
+- Verificação de possíveis outliers
+- Discussão sobre variáveis relevantes para o modelo de **Churn**
+
+## 🛠️ Ferramentas Utilizadas
+
+- Python 3
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
